@@ -1,0 +1,60 @@
+
+
+.main{ width:1000px;  margin:0 auto;    /* background-color: #333333; */        }
+
+
+.range1{height:540px; background-color:#fafafa; margin: 200px auto;  }
+.range1 .column{height:30px; background: #7b7f8a; line-height: 30px;}
+.range1 .column input{margin-left: 30px;}
+.range1 .column span{padding:5px 60px;}
+/*------ul li----------*/
+#bmw{border: 1px solid #666666;  }
+#bmw li{width:1000px; height:110px; border-bottom: 1px solid #A5B0B2;                               }
+#bmw  li img { width: 80px; height: 80px; vertical-align: middle;}
+
+/*-名称规格-*/
+#bmw  li .name{margin-left: 5px; width:100px; height:60px;display: inline-block;}
+
+#bmw  li .unit{margin-left: 10px; width:200px; height:80px; /*border: 1px solid #0086B3;*/ display: inline-block; color:#666666; margin-top: 10px; }
+#bmw li .num {width: 30px; text-align: center;}
+/*增删*/
+#bmw  li .price{padding:0 30px}
+#bmw  li .price2{padding:0 100px}
+#bmw  li .reduce{margin-left: 50px;}
+#bmw  li .del{margin-left: 40px;}
+
+
+/*---总价栏-----*/
+.range1 .prime{height:40px; line-height: 40px;  border-bottom: 1px solid #444444; }
+.prime a{padding: 0 100px;} 
+.prime #stics{font-size: 15px; color:#0000FF; padding:0 5px;}
+#collect {font-size: 20px; color:#825dc7   }
+
+/*---结算栏-----*/
+.range1 .settle{height:50px; line-height: 50px;  border-bottom: 1px solid #444444; }
+.settle a ,.sweep{background: #888c97; padding: 5px 10px; border-radius: 5px; color: white;  }
+.sweep{ margin-left: 20px;}
+.settle #tune{float: right; margin-right: 20px;margin-top: 3px; padding:10px 15px; font-size: 18px;  color: white; background: #9e0323;  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

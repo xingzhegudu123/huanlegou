@@ -1,0 +1,606 @@
+{
+	"categorys": [
+		{
+			"id": 0,
+			"name": "全部"
+		}, {
+			"id": 1,
+			"name": "爱情"
+		}, {
+			"id": 2,
+			"name": "喜剧"
+		}, {
+			"id": 3,
+			"name": "动画"
+		}, {
+			"id": 4,
+			"name": "剧情"
+		}
+	],
+
+	"areas": [
+		{
+			"id": 0,
+			"name": "全部"
+		}, {
+			"id": 1,
+			"name": "大陆"
+		}, {
+			"id": 2,
+			"name": "美国"
+		}, {
+			"id": 3,
+			"name": "韩国"
+		}, {
+			"id": 4,
+			"name": "日本"
+		}
+	],
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	"movies": [
+		{
+			"id": 0,
+			"hit": "日本·涂出软嫩双手",
+			"sign":" 资生堂美润护手霜（渗透滋养型）套装（100g+30g)",
+			"img": "../img/movis2/1.jpg",
+			"hot": 494,
+			"cost1": 1035,
+			"category": 2,
+			"area": 1
+		}, {
+			"id": 1,
+			"hit": "日本·轻松洗出水嫩肌",
+			"sign":"日本蝶印马油精华沐浴露2瓶组（600ml+600ml）",
+			"img": "../img/movis2/2.jpg",
+			"hot": 598,
+			"cost1": 565,
+			"category": 2,
+			"area": 3
+		}, {
+			"id": 2,
+			"hit": "甜蜜爱恋香调沁人心脾",
+			"sign":"菲诗小铺甜蜜爱恋香水沐浴露500ml",
+			"img": "../img/movis2/3.jpg",
+			"hot": 229,
+			"cost1": 742,
+			"category": 2,
+			"area": 4
+		}, {
+			"id": 3,
+			"hit": "天然植萃润养肌肤",
+			"sign":"自然之名小茉莉护手霜30g",
+			"img": "../img/movis2/4.jpg",
+			"hot": 377,
+			"cost1": 171,
+			"category": 1,
+			"area": 1
+		}, {
+			"id": 4,
+			"hit": "德国·沁香洋甘菊",
+			"sign":"德国小甘菊敏感修护唇膏4.8g+ 经典护手霜20ml组合装",
+			"img": "../img/movis2/5.jpg",
+			"hot": 897,
+			"cost1": 991,
+			"category": 2,
+			"area": 1
+		}, {
+			"id": 5,
+			"hit": "香水配方持久留香",
+			"sign":"菲诗小铺初恋甜心香水洗发水400ml",
+			"img": "../img/movis2/6.jpg",
+			"hot": 830,
+			"cost1": 403,
+			"category": 1,
+			"area": 3
+		}, {
+			"id": 6,
+			"hit": " 双脚时刻滋润光洁",
+			"sign":"露兰姬娜 牛奶竹醋去死皮嫩滑足膜38g*7对",
+			"img": "../img/movis2/7.jpg",
+			"hot": 407,
+			"cost1": 107,
+			"category": 3,
+			"area": 1
+		}, {
+			"id": 7,
+			"hit": "温热熨肤 三色光疗",
+			"sign":"Runve/嫩芙塑颜金熨斗美颜组 提拉导入仪",
+			"img": "../img/movis2/8.jpg",
+			"hot": 385,
+			"cost1": 227,
+			"category": 2,
+			"area": 2
+		}, {
+			"id": 8,
+			"hit": "焕发迷人光彩的秘诀",
+			"sign":"诗蒂兰能量微震红光面罩套组",
+			"img": "../img/movis2/9.jpg",
+			"hot": 212,
+			"cost1": 421,
+			"category": 3,
+			"area": 3
+		}, {
+			"id": 9,
+			"hit": "从容应对各种材质毛球",
+			"sign":"飞科FR5220毛球修剪器充电式吸毛器毛衣剃毛器打毛器",
+			"img": "../img/movis2/10.jpg",
+			"hot": 295,
+			"cost1": 915,
+			"category": 1,
+			"area": 1
+		}, {
+			"id": 10,
+			"hit": "瑞典·趣味洁面功能升级",
+			"sign":"FOREO Luna play plus 露娜清洁美容洗脸洁面仪",
+			"img": "../img/movis2/11.jpg",
+			"hot": 343,
+			"cost1": 1026,
+			"category": 4,
+			"area": 4
+		}, {
+			"id": 11,
+			"hit": "无痕卸妆补水",
+			"sign":"白色压边化妆棉 189片 网易严选",
+			"img": "../img/movis2/12.jpg",
+			"hot": 126,
+			"cost1": 377,
+			"category": 2,
+			"area": 1
+		}, {
+			"id": 12,
+			"hit": "快速剔除毛球",
+			"sign":"飞科FR5209毛球修剪器脱毛机去毛器充电式去球器",
+			"img": "../img/movis2/13.jpg",
+			"hot": 117,
+			"cost1": 402,
+			"category": 3,
+			"area": 4
+		}, {
+			"id": 13,
+			"hit": "利落修眉",
+			"sign":"电动多功能修眉刀 网易严选",
+			"img": "../img/movis2/14.jpg",
+			"hot": 892,
+			"cost1": 1030,
+			"category": 4,
+			"area": 3
+		}, {
+			"id": 14,
+			"hit": "韩国·人参精华滋养头皮",
+			"sign":"吕臻粹恒护套组（洗发水400ml*4+发膜300ml*2）",
+			"img": "../img/movis2/15.jpg",
+			"hot": 885,
+			"cost1": 939,
+			"category": 2,
+			"area": 3
+		}, {
+			"id": 15,
+			"hit": "韩国·口碑销量王",
+			"sign":" 吕臻萃恒护多效洗发水400g*2",
+			"img": "../img/movis2/16.jpg",
+			"hot": 942,
+			"cost1": 918,
+			"category": 1,
+			"area": 2
+		}, {
+			"id": 16,
+			"hit": "梳一下就能遮白发",
+			"sign":"多爱三位一体染发膏超值体验组（3+3）",
+			"img": "../img/movis2/17.jpg",
+			"hot": 302,
+			"cost1": 725,
+			"category": 1,
+			"area": 4
+		}, {
+			"id": 17,
+			"hit": "轻松享受染发过程",
+			"sign":" 韩愢生态气动泡泡活氧梳2盒（三色可选）加赠补充装",
+			"img": "../img/movis2/18.jpg",
+			"hot": 417,
+			"cost1": 293,
+			"category": 1,
+			"area": 3
+		}, {
+			"id": 18,
+			"hit": "鲜花染护更健康",
+			"sign":" 韩愢生态鲜花3D泡泡染护特惠组6盒3色加赠洗发露精华素*2",
+			"img": "../img/movis2/19.jpg",
+			"hot": 329,
+			"cost1": 695,
+			"category": 1,
+			"area": 1
+		}, {
+			"id": 19,
+			"hit": "不再一梳一大把",
+			"sign":" 吕臻萃恒护多效洗发水400g*2",
+			"img": "../img/movis2/20.jpg",
+			"hot": 742,
+			"cost1": 391,
+			"category": 3,
+			"area": 4
+		}, {
+			"id": 20,
+			"hit": "韩国·防脱修复小能手",
+			"sign":" 吕含光耀护损伤修护洗发水400g*2",
+			"img": "../img/movis2/21.jpg",
+			"hot": 694,
+			"cost1": 487,
+			"category": 4,
+			"area": 3
+		}, {
+			"id": 21,
+			"hit": "温热熨肤 三色光疗",
+			"sign":" 吕臻萃恒护多效洗发水400g*2",
+			"img": "../img/movis2/22.jpg",
+			"hot": 512,
+			"cost1": 382,
+			"category": 1,
+			"area": 2
+		}, {
+			"id": 22,
+			"hit": "智能变色 保湿滋润",
+			"sign":" 凯莉聚美 美唇变色唇蜜套组5色",
+			"img": "../img/movis2/23.jpg",
+			"hot": 531,
+			"cost1": 631,
+			"category": 2,
+			"area": 4
+		}, {
+			"id": 23,
+			"hit": "火爆洋人圈的中国口红",
+			"sign":"凯莉聚美水晶金箔花朵变色口红组",
+			"img": "../img/movis2/24.jpg",
+			"hot": 532,
+			"cost1": 1044,
+			"category": 4,
+			"area": 3
+		}, {
+			"id": 24,
+			"hit": "法国·淡妆浓抹总相宜",
+			"sign":"Dior/迪奥魅惑润唇蜜3.5g",
+			"img": "../img/movis2/25.jpg",
+			"hot": 791,
+			"cost1": 664,
+			"category": 1,
+			"area": 3
+		}, {
+			"id": 25,
+			"hit": " 韩国·遮瑕持久不脱妆",
+			"sign":" 韩国兰芝亮白聚光气垫BB霜（原装进口）",
+			"img": "../img/movis2/26.jpg",
+			"hot": 969,
+			"cost1": 901,
+			"category": 4,
+			"area": 3
+		}, {
+			"id": 26,
+			"hit": "日本·锁住滋润守护双唇",
+			"sign":"DHC/蝶翠诗橄榄护唇膏2支优惠组（滋养皂5g*2）",
+			"img": "../img/movis2/27.jpg",
+			"hot": 527,
+			"cost1": 128,
+			"category": 4,
+			"area": 2
+		}, {
+			"id": 27,
+			"hit": "韩国·轻盈持久卓效防晒",
+			"sign":"兰芝(LANEIGE)兰芝亮白聚光气垫霜13号 15g*1+替换装15g*1",
+			"img": "../img/movis2/28.jpg",
+			"hot": 807,
+			"cost1": 728,
+			"category": 4,
+			"area": 1
+		}, {
+			"id": 28,
+			"hit": "西班牙·免洗卸妆别错过",
+			"sign":" Byphasse/蓓昂斯温和清洁卸妆水500ml",
+			"img": "../img/movis2/29.jpg",
+			"hot": 875,
+			"cost1": 880,
+			"category": 1,
+			"area": 1
+		}, {
+			"id": 29,
+			"hit": "加大加厚款",
+			"sign":" 梦洁 土耳其进口浴巾：伊语倾城 262728",
+			"img": "../img/movis2/30.jpg",
+			"hot": 849,
+			"cost1": 192,
+			"category": 1,
+			"area": 3
+		}, {
+			"id": 30,
+			"hit": "新疆长绒棉面料",
+			"sign":"洁丽雅（Grace）毛巾家纺 花千鸟格加厚吸水/兰/米京东精选",
+			"img": "../img/movis2/31.jpg",
+			"hot": 579,
+			"cost1": 526,
+			"category": 3,
+			"area": 4
+		}, {
+			"id": 31,
+			"hit": "无甲醛来自大朴",
+			"sign":" 大朴（DAPU）精梳埃及长绒棉毛巾6条装  白/粉/蓝/绿/驼/紫 1",
+			"img": "../img/movis2/32.jpg",
+			"hot": 588,
+			"cost1": 1094,
+			"category": 2,
+			"area": 4
+		}, {
+			"id": 32,
+			"hit": "三色可选",
+			"sign":" 三利 雪绒超柔素色蝴蝶结抹胸式浴巾套装 浴裙+浴帽",
+			"img": "../img/movis2/33.jpg",
+			"hot": 632,
+			"cost1": 868,
+			"category": 3,
+			"area": 1
+		}, {
+			"id": 33,
+			"hit": "全棉古纱，亲肤舒适",
+			"sign":"BH全棉勾条毛巾33*75混色三条装",
+			"img": "../img/movis2/34.jpg",
+			"hot": 562,
+			"cost1": 921,
+			"category": 2,
+			"area": 3
+		}, {
+			"id": 34,
+			"hit": "手感柔软蓬松",
+			"sign":"孚日洁玉纯棉毛巾 亲肤透气色织洗脸巾单条装 蓝色 京东精选",
+			"img": "../img/movis2/35.jpg",
+			"hot": 15,
+			"cost1": 666,
+			"category": 3,
+			"area": 4
+		}, {
+			"id": 35,
+			"hit": "10条装超值组合",
+			"sign":" 洁丽雅（Grace）毛巾家纺 纯棉素色柔软面巾 十条装",
+			"img": "../img/movis2/36.jpg",
+			"hot": 783,
+			"cost1": 662,
+			"category": 3,
+			"area": 4
+		}, {
+			"id": 36,
+			"hit": "时尚轻薄 劲肩保暖",
+			"sign":" 恋邑 多功能羽绒披肩",
+			"img": "../img/movis2/37.jpg",
+			"hot": 105,
+			"cost1": 1051,
+			"category": 3,
+			"area": 4
+		}, {
+			"id": 37,
+			"hit": "活性炭记忆绵",
+			"sign":" 日式记忆绵坐垫外套 网易严选",
+			"img": "../img/movis2/38.jpg",
+			"hot": 827,
+			"cost1": 1032,
+			"category": 2,
+			"area": 4
+		}, {
+			"id": 38,
+			"hit": "独特的凹槽设计",
+			"sign":" 爱黛JZ 精品决明子磁疗枕 48*74",
+			"img": "../img/movis2/39.jpg",
+			"hot": 37,
+			"cost1": 150,
+			"category": 2,
+			"area": 3
+		}, {
+			"id": 39,
+			"hit": "去远行 去放松",
+			"sign":"恋邑蜗牛旅行颈枕带眼罩",
+			"img": "../img/movis2/40.jpg",
+			"hot": 44,
+			"cost1": 628,
+			"category": 2,
+			"area": 2
+		}, {
+			"id": 40,
+			"hit": "软糯轻柔回弹",
+			"sign":" 日式蓬软太鼓抱枕 直径55CM 网易严选",
+			"img": "../img/movis2/41.jpg",
+			"hot": 9,
+			"cost1": 963,
+			"category": 4,
+			"area": 2
+		}, {
+			"id": 41,
+			"hit": "亚麻风格靠垫",
+			"sign":"Cozzylife蔻姿家居亚麻风格靠垫数码印花",
+			"img": "../img/movis2/42.jpg",
+			"hot": 170,
+			"cost1": 876,
+			"category": 3,
+			"area": 2
+		}, {
+			"id": 42,
+			"hit": "深层滋润 紧致光泽",
+			"sign":"Cozzylife蔻姿家居亚麻风格靠垫数码印花",
+			"img": "../img/movis2/43.jpg",
+			"hot": 157,
+			"cost1": 867,
+			"category": 2,
+			"area": 1
+		}, {
+			"id": 43,
+			"hit": "晶莹柔亮 娇嫩欲滴",
+			"sign":" 御泥坊黑加仑明星黑膜超值劲爆组*56片",
+			"img": "../img/movis2/44.jpg",
+			"hot": 200,
+			"cost1": 294,
+			"category": 3,
+			"area": 2
+		}, {
+			"id": 44,
+			"hit": "每片低至4.3元",
+			"sign":"御泥坊 新升级细嫩黑糖黑面膜劲爆组 70片",
+			"img": "../img/movis2/45.jpg",
+			"hot": 702,
+			"cost1": 311,
+			"category": 4,
+			"area": 1
+		}, {
+			"id": 45,
+			"hit": " 年轻从眼开始",
+			"sign":"牛尔京城之霜 五爪提拉逆时修护眼霜精华乳促销组",
+			"img": "../img/movis2/46.jpg",
+			"hot": 921,
+			"cost1": 560,
+			"category": 2,
+			"area": 3
+		}, {
+			"id": 46,
+			"hit": "多重修复 守护年轻肌肤",
+			"sign":"京城之霜多效精华乳2+2特惠组",
+			"img": "../img/movis2/47.jpg",
+			"hot": 569,
+			"cost1": 1092,
+			"category": 3,
+			"area": 2
+		}, {
+			"id": 47,
+			"hit": "意大利·挥别牙渍绽笑容",
+			"sign":"意大利德康美专业口腔护理超值组（原装进口）",
+			"img": "../img/movis2/48.jpg",
+			"hot": 835,
+			"cost1": 243,
+			"category": 4,
+			"area": 4
+		}, {
+			"id": 48,
+			"hit": "新概念美齿",
+			"sign":"LG倍瑞傲 派缤按压式牙膏 三种口味选择 285G",
+			"img": "../img/movis2/49.jpg",
+			"hot": 242,
+			"cost1": 966,
+			"category": 1,
+			"area": 4
+		}, {
+			"id": 49,
+			"hit": "愉悦从清晨的微笑开始",
+			"sign":"日式和风声波式电动牙刷 机身+一个刷头 网易严选",
+			"img": "../img/movis2/50.jpg",
+			"hot": 395,
+			"cost1": 919,
+			"category": 1,
+			"area": 1
+		}, {
+			"id": 50,
+			"hit": " 新西兰·牙渍去无踪",
+			"sign":"纽西小精灵蜂胶牙膏120g*2支装（新西兰进口）",
+			"img": "../img/movis2/51.jpg",
+			"hot": 78,
+			"cost1": 350,
+			"category": 2,
+			"area": 3
+		}, {
+			"id": 51,
+			"hit": "韩国·牙齿问题一次解决",
+			"sign":"欧志姆珍珠瓷白超值牙膏组",
+			"img": "../img/movis2/52.jpg",
+			"hot": 539,
+			"cost1": 707,
+			"category": 2,
+			"area": 4
+		}, {
+			"id": 52,
+			"hit": " 声波呵护口腔每个角落",
+			"sign":" RIWA雷瓦声波电动牙刷家庭组",
+			"img": "../img/movis2/53.jpg",
+			"hot": 646,
+			"cost1": 435,
+			"category": 1,
+			"area": 1
+		}, {
+			"id": 53,
+			"hit": "新西兰·清新口气",
+			"sign":"纽西小精灵蜂胶漱口水300ml（新西兰进口）",
+			"img": "../img/movis2/54.jpg",
+			"hot": 533,
+			"cost1": 346,
+			"category": 2,
+			"area": 1
+		}, {
+			"id": 54,
+			"hit": "韩国·人参精华滋养头皮",
+			"sign":"吕臻粹恒护洗发护发套组（洗发水400ml*4+发膜300ml*2）",
+			"img": "../img/movis2/55.jpg",
+			"hot": 417,
+			"cost1": 1040,
+			"category": 2,
+			"area": 4
+		}, {
+			"id": 55,
+			"hit": "韩国·口碑销量王",
+			"sign":"吕臻萃恒护多效洗发水400g*2",
+			"img": "../img/movis2/56.jpg",
+			"hot": 982,
+			"cost1": 156,
+			"category": 2,
+			"area": 3
+		}, {
+			"id": 56,
+			"hit": "梳一下就能遮白发",
+			"sign":"多爱三位一体染发膏超值体验组（3+3）",
+			"img": "../img/movis2/57.jpg",
+			"hot": 102,
+			"cost1": 152,
+			"category": 3,
+			"area": 3
+		}, {
+			"id": 57,
+			"hit": "轻松享受染发过程",
+			"sign":"韩愢生态气动泡泡活氧梳2盒（三色可选）加赠补充装",
+			"img": "../img/movis2/58.jpg",
+			"hot": 139,
+			"cost1": 109,
+			"category": 3,
+			"area": 3
+		}, {
+			"id": 58,
+			"hit": "鲜花染护更健康",
+			"sign":"韩愢生态鲜花3D泡泡染护特惠组6盒3色可选加赠洗发露精华素",
+			"img": "../img/movis2/59.jpg",
+			"hot": 482,
+			"cost1": 1020,
+			"category": 3,
+			"area": 1
+		}, {
+			"id": 59,
+			"hit": "韩国·防脱修复小能手",
+			"sign":" 吕含光耀护损伤修护洗发水400g*2",
+			"img": "../img/movis2/60.jpg",
+			"hot": 286,
+			"cost1": 952,
+			"category": 2,
+			"area": 3
+		}
+	]
+}
+ 
+
+
+
+
+
+
+
+
+
